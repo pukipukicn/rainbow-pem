@@ -5,3 +5,8 @@ oragne
 blue
 green
 yellow
+
+added earthday
+water
+fire
+wind
